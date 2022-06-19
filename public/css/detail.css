@@ -1,0 +1,40 @@
+
+.how-section1 h4{
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    color: #3931af;
+    font-size: 20px;
+}
+
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 60%;
+}
+.row{
+    margin-top: 20%;
+}
+.w3-top{background-color: black;
+    color: white;
+   
+  }
+nav{
+    background-color: #000;
+    color:black;
+  }
+  
+  a{
+    color: white;
+  }
+
+.subheading{
+    color: #000;
+}
+.subheading:hover{
+    color: blue;
+}
